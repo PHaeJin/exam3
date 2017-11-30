@@ -1,0 +1,1 @@
+int isPrimNumber(int a);
